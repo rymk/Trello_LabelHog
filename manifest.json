@@ -1,0 +1,29 @@
+{
+  "name": "Label Hog",
+  "description": "",
+  "details": "Attempt infinite colors, from Trello's saving of labels I'm not sure if this will be possible...",
+  "icon": {
+    "url": "./images/logo.png"
+  },
+  "author": "Ryan Key",
+  "capabilities": [
+    "attachment-sections",
+    "attachment-thumbnail",
+    "board-buttons",
+    "callback",
+    "card-badges",
+    "card-buttons",
+    "card-detail-badges",
+    "card-from-url",
+    "format-url",
+    "show-settings"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  },
+  "recommend": {
+    "urls": []
+  }
+}
